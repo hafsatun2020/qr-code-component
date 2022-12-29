@@ -21,7 +21,7 @@ body {
     background-color: var(--White);
     width: 300px;
     max-width: 375px;
-    height: 72vh;
+    
     max-height: 500px;
     padding: 10px;
     text-align: center;
